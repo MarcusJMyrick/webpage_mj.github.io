@@ -30,7 +30,11 @@
   text-decoration: none;
 }
 
-h1,
+h1 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  text-align: center;
+}
+
 h2,
 h3,
 h4,
